@@ -1,0 +1,16 @@
+body {
+    background-image: url("./images/Stacked\ Wave\(1\).svg");
+    background-size: 200%;
+}
+
+
+.card {
+    position: absolute;
+    right: 0%;
+}
+
+num {
+    position: absolute;
+    top: 25%;
+    right: 25%;
+}
